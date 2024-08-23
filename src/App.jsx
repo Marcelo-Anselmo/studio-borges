@@ -6,7 +6,7 @@ function App() {
     <>
       <Header />
       <div>
-        <h2>Testando se fica escuro essa parte também</h2>
+        <h2 className="text-black">Testando se fica escuro essa parte também</h2>
       </div>
     </>
   )
