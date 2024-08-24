@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <header className="bg-[url('https://cdn.gamma.app/kv7xvxmqnyy46dp/generated-images/Nz11JVm_GQKxQcoW2cJXt.jpg')] bg-center bg-cover w-screen h-98">
+    <header className="bg-[url('https://cdn.gamma.app/kv7xvxmqnyy46dp/generated-images/Nz11JVm_GQKxQcoW2cJXt.jpg')] bg-center bg-cover w-screen h-98 overflox-x-hidden">
       <div className="bg-black opacity-80 flex justify-center w-screen h-full py-32">
         <div className="space-y-6">
           <div>
