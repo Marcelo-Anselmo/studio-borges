@@ -1,7 +1,7 @@
 const Header = () => {
   return (
-    <header className="bg-[url('https://cdn.gamma.app/kv7xvxmqnyy46dp/generated-images/Nz11JVm_GQKxQcoW2cJXt.jpg')] bg-center bg-cover w-screen h-96">
-      <div className="bg-black opacity-85 flex justify-center w-screen h-full py-32">
+    <header className="bg-[url('https://cdn.gamma.app/kv7xvxmqnyy46dp/generated-images/Nz11JVm_GQKxQcoW2cJXt.jpg')] bg-center bg-cover w-screen h-98 overflox-x-hidden">
+      <div className="bg-black opacity-80 flex justify-center w-screen h-full py-32">
         <div className="space-y-6">
           <div>
             <h1 className="text-6xl text-white font-semibold font-serif pb-6">
