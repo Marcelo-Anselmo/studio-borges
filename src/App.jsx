@@ -1,9 +1,9 @@
-import About from "./components/About"
-import Cares from "./components/Cares"
-import Header from "./components/Header"
-import Photos from "./components/Photos"
-import Services from "./components/Services"
-
+import About from "./components/About";
+import Cares from "./components/Cares";
+import Header from "./components/Header";
+import Photos from "./components/Photos";
+import Schedule from "./components/schedule";
+import Services from "./components/Services";
 
 function App() {
   return (
@@ -13,8 +13,9 @@ function App() {
       <Services />
       <Cares />
       <Photos />
+      <Schedule />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
