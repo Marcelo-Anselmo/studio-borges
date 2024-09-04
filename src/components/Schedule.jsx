@@ -1,9 +1,9 @@
 const Schedule = () => {
   return (
     <section className="py-12 md:py-24">
-      <div className="flex flex-col md:flex-row justify-center items-center md:space-x-16 text-black w-full h-full">
-        <div className="py-8 px-4 md:px-0 md:w-1/2">
-          <h2 className="text-3xl md:text-4xl font-serif font-semibold pb-8 xl:text-center md:text-left">
+      <div className="flex flex-col md:flex-row-reverse justify-center items-center md:space-x-16 text-black w-full">
+        <div className="py-8 px-4 md:px-48 md:w-1/2">
+          <h2 className="text-3xl md:text-4xl font-serif font-semibold pb-8 text-left">
             Agende seu Horário
           </h2>
 
@@ -36,9 +36,9 @@ const Schedule = () => {
               </p>
             </li>
           </ol>
-          <div className="flex justify-center md:justify-start">
+          <div className="flex justify-center md:justify-start mt-4">
             <a
-              className="bg-purple-500 hover:bg-purple-600 duration-200 text-white mt-4 px-28 py-2 rounded-lg font-sans font-bold text-lg"
+              className="bg-purple-500 hover:bg-purple-600 duration-200 text-white px-6 py-3 rounded-lg font-sans font-bold text-lg"
               href="https://www.google.com.br">
               Agendar Agora
             </a>
