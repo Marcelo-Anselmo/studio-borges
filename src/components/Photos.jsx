@@ -2,11 +2,11 @@ import CardsPh from "./CardsPh";
 
 const Photos = () => {
   return (
-    <section className="px-32 overflox-x-hidden w-full h-full text-black">
-      <div className="text-4xl font-serif font-semibold pb-8">
+    <section className="px-4 md:px-8 lg:px-32 overflow-x-hidden w-full h-full text-black">
+      <div className="text-3xl md:text-4xl font-serif font-semibold pb-8 xl:text-center md:text-left">
         <h2>Galeria de Fotos</h2>
       </div>
-      <div className="flex text-pretty flex-row space-x-4">
+      <div className="flex flex-col md:flex-row flex-wrap justify-center space-y-8 md:space-y-0 md:space-x-4">
         <CardsPh
           title="Elegância Atemporal"
           src="https://cdn.gamma.app/kv7xvxmqnyy46dp/generated-images/xwnaZZcrfBbHhB8kDy_TL.jpg"
