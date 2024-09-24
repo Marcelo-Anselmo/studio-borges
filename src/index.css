@@ -8,4 +8,7 @@
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #FFEBFB;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
 }
