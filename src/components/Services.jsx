@@ -10,11 +10,21 @@ const Services = () => {
           <ol className="space-y-8">
             <li>
               <h3 className="text-xl md:text-2xl font-serif font-semibold pb-4">
+                Mega Hair
+              </h3>
+              <p className="text-base md:text-lg font-normal text-gray-500">
+                Transforme seu visual com Mega Hair, obtendo fios longos e
+                <br />
+                volumosos com técnicas avançadas para um resultado natural e duradouro.
+              </p>
+            </li>
+            <li>
+              <h3 className="text-xl md:text-2xl font-serif font-semibold pb-4">
                 Cortes e Penteados
               </h3>
               <p className="text-base md:text-lg font-normal text-gray-500">
-                Transforme seu visual com nossos cortes de vanguarda <br />e
-                penteados elegantes.
+                Transforme seu visual com nossos cortes <br />
+                e penteados elegantes.
               </p>
             </li>
             <li>

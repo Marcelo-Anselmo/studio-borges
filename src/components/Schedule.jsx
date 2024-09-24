@@ -28,18 +28,17 @@ const Schedule = () => {
             </li>
             <li>
               <h3 className="text-xl font-serif font-semibold pb-4">
-                Confirme seu Agendamento
+                Faça seu Agendamento
               </h3>
               <p className="text-base font-normal text-gray-500">
-                Finalize seu agendamento e aguarde nosso <br />
-                contato para confirmar.
+                Faça agora seu agendamento em apenas 3 <br /> passos.
               </p>
             </li>
           </ol>
           <div className="flex justify-center md:justify-start mt-4">
             <a
               className="bg-purple-500 hover:bg-purple-600 duration-200 text-white px-6 py-3 rounded-lg font-sans font-bold text-lg"
-              href="https://www.google.com.br">
+              href="https://client.tuaagenda.com/c/StudioBrunaBorgesHs/agendar/servicos">
               Agendar Agora
             </a>
           </div>
