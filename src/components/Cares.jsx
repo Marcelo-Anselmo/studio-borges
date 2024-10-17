@@ -1,3 +1,5 @@
+import img5Li from "../../src/imgs/img_5_Li.jpg";
+
 const Cares = () => {
   return (
     <section className="py-12 md:py-24">
@@ -40,7 +42,7 @@ const Cares = () => {
         <div className="md:w-1/2 flex justify-center">
           <img
             className="w-full h-auto max-w-md"
-            src="./src/imgs/img_5_Li.jpg"
+            src={img5Li}
             alt="Mulheres com cabelos estilosos e cuidados"
           />
         </div>

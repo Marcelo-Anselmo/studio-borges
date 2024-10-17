@@ -1,3 +1,5 @@
+import img4 from "../../src/imgs/img_4.jpg";
+
 const Services = () => {
   return (
     <section className="py-12 md:py-24">
@@ -60,7 +62,7 @@ const Services = () => {
         <div className="md:w-1/2 flex justify-center">
           <img
             className="w-full h-auto max-w-md"
-            src="./src/imgs/img_4.jpg"
+            src={img4}
             alt="Mulheres com cabelos estilosos e cuidados"
           />
         </div>
