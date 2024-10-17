@@ -15,7 +15,8 @@ const Services = () => {
               <p className="text-base md:text-lg font-normal text-gray-500">
                 Transforme seu visual com Mega Hair, obtendo fios longos e
                 <br />
-                volumosos com técnicas avançadas para um resultado natural e duradouro.
+                volumosos com técnicas avançadas para um resultado natural e
+                duradouro.
               </p>
             </li>
             <li>
@@ -23,8 +24,8 @@ const Services = () => {
                 Cortes e Penteados
               </h3>
               <p className="text-base md:text-lg font-normal text-gray-500">
-                Transforme seu visual com nossos cortes <br />
-                e penteados elegantes.
+                Transforme seu visual com nossos cortes <br />e penteados
+                elegantes.
               </p>
             </li>
             <li>
@@ -59,7 +60,7 @@ const Services = () => {
         <div className="md:w-1/2 flex justify-center">
           <img
             className="w-full h-auto max-w-md"
-            src="https://cdn.gamma.app/kv7xvxmqnyy46dp/generated-images/GZXTH5S5bXId_1sXG5aE2.jpg"
+            src="./src/imgs/img_4.jpg"
             alt="Mulheres com cabelos estilosos e cuidados"
           />
         </div>
