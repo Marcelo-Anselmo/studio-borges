@@ -40,7 +40,7 @@ const Cares = () => {
         <div className="md:w-1/2 flex justify-center">
           <img
             className="w-full h-auto max-w-md"
-            src="https://cdn.gamma.app/kv7xvxmqnyy46dp/generated-images/YIWgkWTnqtoMKSXvRPJ-B.jpg"
+            src="./src/imgs/img_5_Li.jpg"
             alt="Mulheres com cabelos estilosos e cuidados"
           />
         </div>
