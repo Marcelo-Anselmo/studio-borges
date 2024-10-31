@@ -1,4 +1,8 @@
 import CardsPh from "./CardsPh";
+import img1 from "../../src/imgs/img_1.jpg";
+import pago3 from "../../src/imgs/pago_3.jpg";
+import pago1 from "../../src/imgs/pago_1.jpg";
+import pago2 from "../../src/imgs/pago_2.jpg";
 
 const Photos = () => {
   return (
@@ -9,22 +13,22 @@ const Photos = () => {
       <div className="flex flex-col md:flex-row justify-center gap-8">
         <CardsPh
           title="Elegância Atemporal"
-          src="./src/imgs/pago_2.jpg"
+          src={pago2}
           p="Penteados sofisticados que valorizam sua beleza natural."
         />
         <CardsPh
           title="Estilo Arrojado"
-          src="./src/imgs/pago_1.jpg"
+          src={pago1}
           p="Transformações ousadas que elevam sua autoestima."
         />
         <CardsPh
           title="Cuidado Dedicado"
-          src="./src/imgs/pago_3.jpg"
+          src={pago3}
           p="Tratamentos exclusivos que nutrem e revitalizam seus cabelos."
         />
         <CardsPh
           title="Versatilidade Única"
-          src="./src/imgs/img_1.jpg"
+          src={img1}
           p="Diversas opções de cortes e estilos para realçar sua beleza."
         />
       </div>
