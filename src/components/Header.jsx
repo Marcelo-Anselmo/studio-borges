@@ -11,13 +11,13 @@ const Header = () => {
           </p>
           <div className="flex flex-col sm:flex-row sm:space-x-4 space-y-4 sm:space-y-0">
             <a
-              className="bg-[#BE49DF] px-6 py-3 rounded-lg font-sans font-bold text-base sm:text-lg text-white"
-              href="#">
+              className="bg-[#BE49DF] hover:bg-purple-600 duration-200 px-6 py-3 rounded-lg font-sans font-bold text-base sm:text-lg text-white"
+              href="https://client.tuaagenda.com/c/StudioBrunaBorgesHs/agendar/servicos">
               Agende seu horário
             </a>
             <a
-              className="bg-black px-6 py-3 border-2 border-purple-500 rounded-lg font-sans font-semibold text-base sm:text-lg text-purple-500"
-              href="#">
+              className="bg-black px-6 py-3 border-2 border-purple-500 hover:bg-gray-300 duration-200 rounded-lg font-sans font-semibold text-base sm:text-lg text-purple-500"
+              href="#services">
               Conheça nossos serviços
             </a>
           </div>

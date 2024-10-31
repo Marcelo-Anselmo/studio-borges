@@ -6,10 +6,12 @@ import Photos from "./components/Photos";
 import Promotion from "./components/Promotion";
 import Schedule from "./components/Schedule";
 import Services from "./components/Services";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   return (
     <>
+      <Analytics />
       <Header />
       <Services />
       <Cares />

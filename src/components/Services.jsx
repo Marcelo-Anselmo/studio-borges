@@ -2,7 +2,7 @@ import img4 from "../../src/imgs/img_4.jpg";
 
 const Services = () => {
   return (
-    <section className="py-12 md:py-24">
+    <section id="services" className="py-12 md:py-24">
       <div className="flex flex-col md:flex-row justify-center space-y-12 md:space-y-0 md:space-x-16 text-black w-full h-full">
         <div className="md:w-1/2 py-8 px-4 xl:px-48">
           <h2 className="text-3xl md:text-4xl font-serif font-semibold pb-8 md:text-left">
