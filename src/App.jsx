@@ -1,6 +1,7 @@
 import About from "./components/About";
 import Andress from "./components/Andress";
 import Cares from "./components/Cares";
+import Contact from "./components/contact";
 import Header from "./components/Header";
 import Photos from "./components/Photos";
 import Promotion from "./components/Promotion";
@@ -20,6 +21,7 @@ function App() {
       <Promotion />
       <About />
       <Andress />
+      <Contact />
     </>
   );
 }

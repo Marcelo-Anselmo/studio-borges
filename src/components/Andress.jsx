@@ -35,7 +35,8 @@ const Andress = () => {
             <h3 className="text-xl font-serif font-semibold pb-2">Endereço:</h3>
             <p className="text-base font-normal text-gray-500">
               Av. Dr. Júlio Maranhão, 128b - Prazeres, Jaboatão dos <br />
-              Guararapes - PE, 54315-380 <br />1 Andar, Sala 03
+              Guararapes - PE, 54315-380 <br />1 Andar, Sala 03 <br />
+              Contato: (81) 9 98179-7019 <br />
             </p>
           </div>
         </div>
