@@ -1,8 +1,8 @@
 import About from "./components/About";
 import Andress from "./components/Andress";
 import Cares from "./components/Cares";
-import Contact from "./components/contact";
 import Header from "./components/Header";
+import Redes from "./components/Redes";
 import Photos from "./components/Photos";
 import Promotion from "./components/Promotion";
 import Schedule from "./components/Schedule";
@@ -21,7 +21,7 @@ function App() {
       <Promotion />
       <About />
       <Andress />
-      <Contact />
+      <Redes />
     </>
   );
 }
