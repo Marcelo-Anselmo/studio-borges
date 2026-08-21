@@ -66,7 +66,7 @@ export default function ContatoPage() {
               <div className="overflow-hidden rounded-[1.6rem] border border-[#e8d7c4]">
                 <iframe
                   title="Mapa do Studio Bruna Borges HS"
-                  src="https://www.google.com/maps?q=-8.1889,-34.9256&z=15&output=embed"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.3702566557513!2d-34.926509024244865!3d-8.165401081823518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7aae1202d54c6e5%3A0x4f6d4860b081bd04!2sStudio%20Bruna%20Borges%20hs!5e0!3m2!1spt-BR!2sbr!4v1787325558959!5m2!1spt-BR!2sbr"
                   className="h-[460px] w-full border-0"
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"

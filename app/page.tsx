@@ -199,7 +199,7 @@ export default function HomePage() {
               <div className="mt-10 overflow-hidden rounded-[1.5rem] border border-white/10">
                 <iframe
                   title="Mapa do Studio Bruna Borges HS"
-                  src="https://www.google.com/maps?q=-8.1889,-34.9256&z=15&output=embed"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.3702566557513!2d-34.926509024244865!3d-8.165401081823518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7aae1bf252227dd%3A0x8381b7540402d1ae!2sR.%20Quatro%2C%20201%20-%20Cajueiro%20Seco%2C%20Jaboat%C3%A3o%20dos%20Guararapes%20-%20PE%2C%2054330-050!5e0!3m2!1spt-BR!2sbr!4v1787325097992!5m2!1spt-BR!2sbr"
                   className="h-[280px] w-full border-0"
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"

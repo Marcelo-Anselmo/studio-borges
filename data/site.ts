@@ -49,12 +49,12 @@ export const site: Site = {
     bairro: "Cajueiro Seco",
     cidade: "Jaboatão dos Guararapes",
     uf: "PE",
-    cep: "54320-220",
+    cep: "54330-050",
     completo: "Rua Quatro, 201 — Cajueiro Seco, Jaboatão dos Guararapes/PE",
   },
   geo: {
-    lat: -8.1889,
-    lng: -34.9256,
+    lat: -8.165353291510899,
+    lng: -34.92391264620408,
   },
   whatsapp: {
     numero: rawWhatsapp,
