@@ -66,7 +66,7 @@ export default function HomePage() {
               <div className="absolute -left-5 top-5 h-24 w-24 rounded-full bg-gold-500/20 blur-3xl" />
               <div className="absolute -right-5 bottom-5 h-28 w-28 rounded-full bg-[#f8efe8]/10 blur-3xl" />
               <div className="relative overflow-hidden rounded-[2rem] border border-white/10 bg-[#f4e7d5]/10 p-3 shadow-[0_30px_70px_rgba(17,8,10,0.35)] backdrop-blur-sm">
-                <Image src="/placeholders/hero-salao.svg" alt="Studio de beleza premium com salão elegante e cabelo bem cuidado" width={900} height={900} priority sizes="(max-width: 768px) 100vw, 50vw" className="h-full w-full rounded-[1.6rem] object-cover" />
+                <Image src="/placeholders/hero-salao.jpg" alt="Studio de beleza premium com salão elegante e cabelo bem cuidado" width={300} height={300} priority sizes="(max-width: 768px) 100vw, 50vw" className="h-full w-full rounded-[1.6rem] object-cover" />
               </div>
             </div>
           </div>
